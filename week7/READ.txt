@@ -1,0 +1,5 @@
+For my final project I wanted to use the voice as the powerful tool is it to modify some of my face features. 
+I am a big fan of the work of artist such as Meredith Monk or Joan La Barbara and the way they explore they exploit and modulate the infinite ranges human voice has. 
+I have been attending to an experimental chorus during the last semester and due to a lack of sopranos in the group I was "promoted" to one of them, instead of "Alto", that would be more inside my comfort zone. To active some of the pitches without damaging myself I have been training different ways to reconfigure several muscles in my face and vocal apparatus. That was the inspiration of the tight relationship between features or expressions and the voice we produce while doing that.
+In this exercise depending on the main frequency in the audio input (which would be the voice of the user) the area around the mouth starts morphing or the size of your pupils.
+I 
